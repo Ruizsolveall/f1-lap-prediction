@@ -41,6 +41,7 @@ and apply machine learning methods for **lap-time regression** and **pit-stop ti
 git clone https://github.com/yourusername/f1-lap-prediction.git
 cd f1-lap-prediction
 pip install -r requirements.txt
+```
 
 Using the CLI Script
 
